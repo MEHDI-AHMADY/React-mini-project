@@ -10,6 +10,7 @@ import Footer from './components/Footer/Footer.jsx';
 function App() {
   return (
     <div>
+      <link rel="preload" href="images/img (5).jpg" as="image" />
       <Navbar></Navbar>
       <Hero></Hero>
       <Info></Info>
